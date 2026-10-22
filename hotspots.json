@@ -1,0 +1,65 @@
+{
+  "updatedAt": "2026-10-22T18:16:07+08:00",
+  "window": "近7日（2026-10-16—2026-10-22）发布的韩国相关消息；活动日期单独标注",
+  "dataBoundary": "本期收录4条可核验的近7日消息，作为选题线索，不代表韩国全网热搜排名或已验证的传播热度；未凑足当天新闻，运营切入均为原创模拟建议。",
+  "items": [
+    {
+      "id": "kr-art-run-20261021",
+      "title": "首尔 Art Run：把跑步轨迹画成图案，再分享到 Instagram",
+      "category": "社媒玩法",
+      "publishedDate": "2026-10-21",
+      "eventDate": "2026-10-14—2026-10-31",
+      "summary": "首尔市公布三条跑步绘图路线，分别以面包、披萨和鱼为图案。参与者按路线完成跑步后，可分享 GPS 轨迹到 Instagram，参加同期活动。",
+      "angle": "模拟创意：设计“路线图＋运动后自拍＋沿途照片”的三格日记，演示如何统一色调并导出。邀请跑步或城市生活类创作者测试，观察收藏率、有效投稿和首次导出率。文案可用：오늘의 러닝, 한 장의 기록.（今天的跑步，留成一张记录。）",
+      "sourceName": "首尔市政府",
+      "url": "https://english.seoul.go.kr/run-through-seoul-and-draw-a-fish-enjoy-seoul-edition-25-with-art-runs/",
+      "confidence": "高：官方原文明确活动机制、发布日期与活动日期",
+      "dataBoundary": "官方活动确实存在，但没有据此认定其已在 Instagram 爆红；美图拼图活动为模拟提案。"
+    },
+    {
+      "id": "kr-ai-film-showcase-20261021",
+      "title": "韩国 AI 电影展映在首尔举行，分享制作过程与创作尝试",
+      "category": "AI影像",
+      "publishedDate": "2026-10-21",
+      "eventDate": "2026-10-21 13:00—18:30（韩国时间；活动已结束）",
+      "summary": "韩国电影振兴委员会于10月21日在首尔电影中心举办2026 AI电影展映，展示韩国电影学院、首尔电影中心等机构的AI制作教育成果，并分享作品制作过程。首尔官方文化门户公布了相同活动日期与内容。",
+      "angle": "模拟创意：制作“从想法到10秒短片”的过程型内容，用自有素材记录构思、生成、修正和最终结果。重点展示人工选择与修改，不只展示成片。追踪教程完播、步骤收藏和实际创作完成情况。",
+      "sourceName": "NewsPim（韩国新闻媒体）；首尔文化门户交叉核验",
+      "url": "https://www.newspim.com/news/view/20261021000853",
+      "additionalSources": [
+        {
+          "sourceName": "首尔文化门户",
+          "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159670&menuNo=200010"
+        }
+      ],
+      "confidence": "高：媒体正文与官方活动页交叉确认",
+      "dataBoundary": "这是影视教育与创作活动，不能推导韩国普通用户已普遍采用AI视频，也不能推导美图参与了该活动。"
+    },
+    {
+      "id": "kr-wconcept-beauty-20261019",
+      "title": "W CONCEPT 推出年内最后一轮 Beauty Fair，覆盖秋冬美妆护理",
+      "category": "美妆生活方式",
+      "publishedDate": "2026-10-19",
+      "eventDate": "截至2026-10-25；10月19日举行 espoir 入驻直播",
+      "summary": "W CONCEPT于10月19日宣布举行持续至25日的Beauty Fair，涵盖秋冬护肤、彩妆、头发和身体护理，并安排新品牌入驻直播及平台独家组合商品。",
+      "angle": "模拟创意：围绕“同一妆容在不同光线下怎样拍”做拍摄与编辑教程，使用本人或已授权素材，避免把修图效果当作化妆品效果。可与美妆创作者测试室内光、自然光两种演示方式，比较收藏和功能点击。",
+      "sourceName": "W CONCEPT 官方合作伙伴新闻室",
+      "url": "https://wconceptpartner.co.kr/newsroom/?bmode=view&idx=175170098&q=YToyOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjtzOjQ6InBhZ2UiO2k6MTt9&t=board",
+      "confidence": "较高：官方新闻室搜索结果提供完整正文与日期，直接打开页面时抓取不稳定",
+      "dataBoundary": "这是平台促销信息，未获得销量或社交热度数据；创意不表示美图与相关品牌存在合作。"
+    },
+    {
+      "id": "kr-namsan-night-20261016",
+      "title": "南山夜间节即将开始：夜景、露营式野餐与秋色散步",
+      "category": "近期活动",
+      "publishedDate": "2026-10-16",
+      "eventDate": "2026-10-23—2026-11-14；常规活动为10月23日至11月7日的周五、周六，11月14日另设特别活动",
+      "summary": "首尔市宣布举办2026南山夜间节，安排夜间野餐、演出、电影及秋色散步，并于11月14日举行无线耳机DJ特别活动。官方说明参加相关项目需通过Naver预约。",
+      "angle": "模拟创意：策划“保留夜晚氛围”的夜拍教程，使用自摄原图展示低光处理前后，并说明哪些细节无法恢复。邀约城市生活创作者制作短视频，以教程收藏、处理完成率和结果满意度评价效果。",
+      "sourceName": "首尔市政府",
+      "url": "https://english.seoul.go.kr/a-special-way-to-enjoy-autumn-nights-2026-namsan-night-festival/",
+      "confidence": "高：官方原文明确发布日期、节目和活动安排",
+      "dataBoundary": "日期范围不表示每天均有活动，预约与临时调整应以主办方最新信息为准；没有将该活动写成全国性热门趋势。"
+    }
+  ]
+}
